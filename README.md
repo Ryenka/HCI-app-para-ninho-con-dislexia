@@ -51,7 +51,7 @@ Realizamos un análisis comparativo con soluciones de la industria y referencias
 El siguiente mapa conceptual detalla las funcionalidades requeridas para satisfacer las necesidades de accesibilidad, gamificación análoga y los diferenciadores de nuestra aplicación:
 
 <p align="center">
-  <img src="assets/mapa_mental.png" alt="Feature Map - ReadEase" width="85%"/>
+  <img src="assests/mapa_mental.png" alt="Feature Map - ReadEase" width="85%"/>
 </p>
 
 ---
@@ -61,7 +61,7 @@ El siguiente mapa conceptual detalla las funcionalidades requeridas para satisfa
 Analizamos las frustraciones (Pains), alegrías (Gains) y tareas del segmento de mercado de los estudiantes y apoderados frente al diseño de los aliviadores y creadores de satisfacción de ReadEase:
 
 <p align="center">
-  <img src="assets/canvas_valor.png" alt="Value Canvas - ReadEase" width="85%"/>
+  <img src="assests/canvas_valor.png" alt="Value Canvas - ReadEase" width="85%"/>
 </p>
 
 ---
@@ -71,7 +71,7 @@ Analizamos las frustraciones (Pains), alegrías (Gains) y tareas del segmento de
 Diseñamos un mapa de navegación intuitivo que divide la aplicación en 4 pilares clave accesibles desde un menú persistente inferior, facilitando un acceso rápido al escáner de textos físicos (OCR) y al modo de lectura activa:
 
 <p align="center">
-  <img src="assets/mapa_navegacion.png" alt="Mapa de Navegabilidad y Arquitectura" width="75%"/>
+  <img src="assests/mapa_navegacion.png" alt="Mapa de Navegabilidad y Arquitectura" width="75%"/>
 </p>
 
 ---
@@ -81,9 +81,9 @@ Diseñamos un mapa de navegación intuitivo que divide la aplicación en 4 pilar
 Para guiar nuestras decisiones de diseño, creamos tres perfiles basados en la investigación de usuarios:
 
 <p align="center">
-  <img src="assets/persona_sofia.png" alt="User Persona - Sofía" width="30%"/>
-  <img src="assets/persona_carolina.png" alt="User Persona - Carolina" width="30%"/>
-  <img src="assets/persona_tomas.png" alt="User Persona - Tomás" width="30%"/>
+  <img src="assests/persona_sofia.png" alt="User Persona - Sofía" width="30%"/>
+  <img src="assests/persona_carolina.png" alt="User Persona - Carolina" width="30%"/>
+  <img src="assests/persona_tomas.png" alt="User Persona - Tomás" width="30%"/>
 </p>
 
 * **Sofía (9 años, Valparaíso):** Estudiante de 4to básico. Siente mucha ansiedad al leer en voz alta frente a sus compañeros y prefiere pasar desapercibida para evitar burlas. Necesita un diseño discreto.
@@ -98,21 +98,21 @@ A continuación se presentan las pantallas de baja fidelidad que componen el flu
 
 ### Onboarding y Configuración de Perfil
 <p align="center">
-  <img src="assets/interfaces_onboarding.png" alt="Interfaces de Bienvenida y Registro" width="70%"/>
+  <img src="assests/interfaces_onboarding.png" alt="Interfaces de Bienvenida y Registro" width="70%"/>
 </p>
 
 ### Configuración Personalizada (Visual y de Audio) y Dashboard Principal
 La aplicación permite modificar la tipografía, el tamaño, el contraste y el espaciado del texto, además de ajustar la velocidad y el tipo de voz de lectura.
 
 <p align="center">
-  <img src="assets/interfaces_configuracion.png" alt="Ajustes de Accesibilidad y Home" width="70%"/>
+  <img src="assests/interfaces_configuracion.png" alt="Ajustes de Accesibilidad y Home" width="70%"/>
 </p>
 
 ### Gestión de Lecturas, Escáner OCR y Biblioteca MINEDUC
 El núcleo de la aplicación permite escanear un documento físico instantáneamente o revisar libros escolares vigentes como *El Principito* o *Matilda* mientras se realiza un seguimiento en tiempo real de los objetivos logrados.
 
 <p align="center">
-  <img src="assets/interfaces_lectura.png" alt="Biblioteca y Notificaciones de Logros" width="70%"/>
+  <img src="assests/interfaces_lectura.png" alt="Biblioteca y Notificaciones de Logros" width="70%"/>
 </p>
 
 ---
