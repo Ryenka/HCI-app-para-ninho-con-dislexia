@@ -71,7 +71,7 @@ Analizamos las frustraciones (Pains), alegrías (Gains) y tareas del segmento de
 Diseñamos un mapa de navegación intuitivo que divide la aplicación en 4 pilares clave accesibles desde un menú persistente inferior, facilitando un acceso rápido al escáner de textos físicos (OCR) y al modo de lectura activa:
 
 <p align="center">
-  <img src="assests/mapa_navegacion.png" alt="Mapa de Navegabilidad y Arquitectura" width="75%"/>
+  <img src="assests/mapa_navegacion.jpg" alt="Mapa de Navegabilidad y Arquitectura" width="75%"/>
 </p>
 
 ---
