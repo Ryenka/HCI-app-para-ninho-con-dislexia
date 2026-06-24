@@ -1,6 +1,6 @@
-# (DyslexiaApp CL) 
+# (LetraClarapp CL) 
 
-**ReadEase** es una aplicación de apoyo a la lectura diseñada específicamente para niños de entre 8 y 12 años con dislexia en el sistema escolar chileno. Nuestra propuesta se enfoca en ofrecer una interfaz discreta, moderna y completamente adaptada al currículum del MINEDUC, permitiendo a los estudiantes seguir las clases sin sentirse diferentes a sus compañeros.
+**LetraClarapp** es una aplicación de apoyo a la lectura diseñada específicamente para niños de entre 8 y 12 años con dislexia en el sistema escolar chileno. Nuestra propuesta se enfoca en ofrecer una interfaz discreta, moderna y completamente adaptada al currículum del MINEDUC, permitiendo a los estudiantes seguir las clases sin sentirse diferentes a sus compañeros.
 
 ---
 
