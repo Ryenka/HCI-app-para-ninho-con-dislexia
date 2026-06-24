@@ -98,16 +98,16 @@ Para guiar nuestras decisiones de diseño, creamos tres perfiles basados en la i
 En esta etapa definimos los esquemas estructurales de la aplicación (esqueletos o *blueprints*). El objetivo principal fue organizar la distribución espacial de los componentes de accesibilidad, los botones de escaneo rápido y las zonas de lectura interactiva antes de aplicar cualquier capa visual o de diseño de UI.
 
 <p align="center">
-  <img src="assets/perfil_configuracion_notificacion.png" alt="Estructura de Wireframes - ReadEase" width="80%"/>
+  <img src="assests/perfil_configuracion_notificacion.png" alt="Estructura de Wireframes - ReadEase" width="80%"/>
 </p>
 <p align="center">
-  <img src="assets/biblioteca_wireframe.png" alt="Estructura de Wireframes - ReadEase" width="80%"/>
+  <img src="assests/biblioteca_wireframe.png" alt="Estructura de Wireframes - ReadEase" width="80%"/>
 </p>
 <p align="center">
-  <img src="assets/busqueda_wireframe.png" alt="Estructura de Wireframes - ReadEase" width="80%"/>
+  <img src="assests/busqueda_wireframe.png" alt="Estructura de Wireframes - ReadEase" width="80%"/>
 </p>
 <p align="center">
-  <img src="assets/camara_wireframe.png" alt="Estructura de Wireframes - ReadEase" width="80%"/>
+  <img src="assests/camara_wireframe.png" alt="Estructura de Wireframes - ReadEase" width="80%"/>
 </p>
 
 ---
@@ -118,21 +118,21 @@ A continuación se presentan las pantallas de baja fidelidad y los prototipos qu
 
 ### Onboarding y Configuración de Perfil
 <p align="center">
-  <img src="assets/interfaces_onboarding.png" alt="Interfaces de Bienvenida y Registro" width="70%"/>
+  <img src="assests/interfaces_onboarding.png" alt="Interfaces de Bienvenida y Registro" width="70%"/>
 </p>
 
 ### Configuración Personalizada (Visual y de Audio) y Dashboard Principal
 La aplicación permite modificar la tipografía, el tamaño, el contraste y el espaciado del texto, además de ajustar la velocidad y el tipo de voz de lectura de forma rápida y sin menús distractores.
 
 <p align="center">
-  <img src="assets/interfaces_configuracion.png" alt="Ajustes de Accesibilidad y Home" width="70%"/>
+  <img src="assests/interfaces_configuracion.png" alt="Ajustes de Accesibilidad y Home" width="70%"/>
 </p>
 
 ### Gestión de Lecturas, Escáner OCR y Biblioteca MINEDUC
 El núcleo de la aplicación permite escanear un documento físico instantáneamente o revisar libros escolares vigentes mientras se realiza un seguimiento en tiempo real de los objetivos logrados (gamificación discreta).
 
 <p align="center">
-  <img src="assets/interfaces_lectura.png" alt="Biblioteca y Notificaciones de Logros" width="70%"/>
+  <img src="assests/interfaces_lectura.png" alt="Biblioteca y Notificaciones de Logros" width="70%"/>
 </p>
 
 ---
