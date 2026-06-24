@@ -18,7 +18,8 @@
 4. [Canvas de Propuesta de Valor](#4-canvas-de-propuesta-de-valor)
 5. [Arquitectura de Información y Navegabilidad](#5-arquitectura-de-información-y-navegabilidad)
 6. [Personas UX](#6-personas-ux)
-7. [Propuesta de Baja Fidelidad y Prototipos](#7-propuesta-de-baja-fidelidad-y-prototipos)
+7. [Wireframes](#7-wireframes)
+8. [Propuesta de Baja Fidelidad y Prototipos](#8-propuesta-de-baja-fidelidad-y-prototipos)
 
 ---
 
@@ -92,27 +93,46 @@ Para guiar nuestras decisiones de diseño, creamos tres perfiles basados en la i
 
 ---
 
-## 7. Propuesta de Baja Fidelidad y Prototipos
+## 7. Wireframes
 
-A continuación se presentan las pantallas de baja fidelidad que componen el flujo principal de la aplicación, incluyendo el onboarding, la configuración de accesibilidad visual/auditiva y el panel de progreso diario:
+En esta etapa definimos los esquemas estructurales de la aplicación (esqueletos o *blueprints*). El objetivo principal fue organizar la distribución espacial de los componentes de accesibilidad, los botones de escaneo rápido y las zonas de lectura interactiva antes de aplicar cualquier capa visual o de diseño de UI.
+
+<p align="center">
+  <img src="assets/perfil_configuracion_notificacion.png" alt="Estructura de Wireframes - ReadEase" width="80%"/>
+</p>
+<p align="center">
+  <img src="assets/biblioteca_wireframe.png" alt="Estructura de Wireframes - ReadEase" width="80%"/>
+</p>
+<p align="center">
+  <img src="assets/busqueda_wireframe.png" alt="Estructura de Wireframes - ReadEase" width="80%"/>
+</p>
+<p align="center">
+  <img src="assets/camara_wireframe.png" alt="Estructura de Wireframes - ReadEase" width="80%"/>
+</p>
+
+---
+
+## 8. Propuesta de Baja Fidelidad y Prototipos
+
+A continuación se presentan las pantallas de baja fidelidad y los prototipos que componen el flujo interactivo principal de la aplicación. Estos prototipos nos permitieron testear la usabilidad de las configuraciones y las dinámicas de lectura con los usuarios.
 
 ### Onboarding y Configuración de Perfil
 <p align="center">
-  <img src="assests/interfaces_onboarding.png" alt="Interfaces de Bienvenida y Registro" width="70%"/>
+  <img src="assets/interfaces_onboarding.png" alt="Interfaces de Bienvenida y Registro" width="70%"/>
 </p>
 
 ### Configuración Personalizada (Visual y de Audio) y Dashboard Principal
-La aplicación permite modificar la tipografía, el tamaño, el contraste y el espaciado del texto, además de ajustar la velocidad y el tipo de voz de lectura.
+La aplicación permite modificar la tipografía, el tamaño, el contraste y el espaciado del texto, además de ajustar la velocidad y el tipo de voz de lectura de forma rápida y sin menús distractores.
 
 <p align="center">
-  <img src="assests/interfaces_configuracion.png" alt="Ajustes de Accesibilidad y Home" width="70%"/>
+  <img src="assets/interfaces_configuracion.png" alt="Ajustes de Accesibilidad y Home" width="70%"/>
 </p>
 
 ### Gestión de Lecturas, Escáner OCR y Biblioteca MINEDUC
-El núcleo de la aplicación permite escanear un documento físico instantáneamente o revisar libros escolares vigentes como *El Principito* o *Matilda* mientras se realiza un seguimiento en tiempo real de los objetivos logrados.
+El núcleo de la aplicación permite escanear un documento físico instantáneamente o revisar libros escolares vigentes mientras se realiza un seguimiento en tiempo real de los objetivos logrados (gamificación discreta).
 
 <p align="center">
-  <img src="assests/interfaces_lectura.png" alt="Biblioteca y Notificaciones de Logros" width="70%"/>
+  <img src="assets/interfaces_lectura.png" alt="Biblioteca y Notificaciones de Logros" width="70%"/>
 </p>
 
 ---
