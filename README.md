@@ -118,7 +118,13 @@ A continuación se presentan las pantallas de baja fidelidad y los prototipos qu
 
 ### Onboarding y Configuración de Perfil
 <p align="center">
-  <img src="assests/interfaces_onboarding.png" alt="Interfaces de Bienvenida y Registro" width="70%"/>
+  <img src="assests/interfaces_onboarding.png" alt="Interfaces" width="70%"/>
+</p>
+<p align="center">
+  <img src="assests/interfaces_onboarding_2.png" alt="Interfaces" width="70%"/>
+</p>
+<p align="center">
+  <img src="assests/interfaces_onboarding_3.png" alt="Interfaces" width="70%"/>
 </p>
 
 ### Configuración Personalizada (Visual y de Audio) y Dashboard Principal
@@ -127,12 +133,24 @@ La aplicación permite modificar la tipografía, el tamaño, el contraste y el e
 <p align="center">
   <img src="assests/interfaces_configuracion.png" alt="Ajustes de Accesibilidad y Home" width="70%"/>
 </p>
+<p align="center">
+  <img src="assests/home.png" alt="Home" width="70%"/>
+</p>
+<p align="center">
+  <img src="assests/notificacion.png" alt="notificacion" width="70%"/>
+</p>
+<p align="center">
+  <img src="assests/logros.png" alt="logors" width="70%"/>
+</p>
 
 ### Gestión de Lecturas, Escáner OCR y Biblioteca MINEDUC
 El núcleo de la aplicación permite escanear un documento físico instantáneamente o revisar libros escolares vigentes mientras se realiza un seguimiento en tiempo real de los objetivos logrados (gamificación discreta).
 
 <p align="center">
-  <img src="assests/interfaces_lectura.png" alt="Biblioteca y Notificaciones de Logros" width="70%"/>
+  <img src="assests/camara.png" alt="flujo camara" width="70%"/>
+</p>
+<p align="center">
+  <img src="assests/texto.png" alt="Biblioteca" width="70%"/>
 </p>
 
 ---
